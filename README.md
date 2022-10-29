@@ -1,5 +1,5 @@
 # Big Integer Library
-Created a big integer library, similar to the one available in Java. The library should provide functionalities to store arbitrarily large integers and perform basic math operations.
+Created a big integer library, similar to the one available in Java. The library provides functionalities to store arbitrarily large integers and perform basic math operations.
 ### Operations:
 ##### 1.Addition, subtraction, multiplication.
 ##### 2.Exponentiation.
